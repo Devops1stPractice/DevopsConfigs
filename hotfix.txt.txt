@@ -1,2 +1,4 @@
 hot fix branch merge into development
 new development branch restrcitions added
+devbrnach Restrict who can push to matching branches
+Specify people, teams, or apps allowed to push to matching branches. Required status checks will still prevent these people, teams, and apps from merging if the checks fail.
