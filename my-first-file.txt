@@ -1,3 +1,3 @@
 my 1st line creation in devlopment branch
 need to raise PR and merge into main branc
-config checking for adminh
+config checking for ad
